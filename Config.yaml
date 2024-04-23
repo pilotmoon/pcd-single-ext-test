@@ -1,0 +1,4 @@
+name: Single Ext Test
+identifier: com.pilotmoon.pcx-single-ext-test
+description: Test repo for single extension in root directory
+actions: {}
